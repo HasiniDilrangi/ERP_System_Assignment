@@ -1,6 +1,6 @@
-# **Invoice Report Application** 
+# **ERP System** 
 
-Welcome to the **Invoice Report Application**, your one-stop solution for generating insightful reports like **Invoice Reports**, **Invoice Item Reports**, and **Item Reports**. Built with PHP, MySQL, and Bootstrap, this app is easy to set up and get running in your local environment.
+Welcome to the **ERP System**, your one-stop solution for generating insightful reports like **Invoice Reports**, **Invoice Item Reports**, and **Item Reports**. Built with PHP, MySQL, and Bootstrap, this app is easy to set up and get running in your local environment.
 
 ---
 
